@@ -1,6 +1,7 @@
 <?php
 
 /* Insert Magic Code Here */
+$data = 'Hellm';
 
 // NO CHANGES ALLOWED BELOW
 

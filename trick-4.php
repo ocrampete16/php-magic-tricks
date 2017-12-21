@@ -10,6 +10,11 @@
  *
  *
  */
+$var = new class {
+    public function __destruct() {
+        $GLOBALS['var'] = 'World!';
+    }
+};
 
 // NO CHANGES ALLOWED BELOW
 
